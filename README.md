@@ -15,7 +15,7 @@
 
 ## 🌟 Projetos em destaque
 
-- **[NovaPixel](https://github.com/seuusuario/NovaPixel)** – Sistema de gestão/portfólio, frontend moderno e responsivo  
+- **[NovaPixel](https://devbyluiz.github.io/NovaPixel/)** – Sistema de gestão/portfólio, frontend moderno e responsivo  
 - **[Projeto2](https://github.com/seuusuario/projeto2)** – Breve descrição do projeto  
 - **[Projeto3](https://github.com/seuusuario/projeto3)** – Breve descrição do projeto  
   
