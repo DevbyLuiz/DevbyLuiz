@@ -25,6 +25,6 @@
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/seu-perfil/)    
-- [Email](luizmaia.tech@gmail.com)  
+- Email: luizmaia.tech@gmail.com  
 
 ---
