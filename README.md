@@ -9,7 +9,7 @@
 - **Front-End:** HTML5, CSS3, JavaScript, WordPress  
 - **Back-End:** Python, PHP  
 - **Banco de Dados:** MySQL  
-- **Ferramentas:** Git, GitHub, VSCode,
+- **Ferramentas:** GitHub, VSCode,
 
 ---
 
@@ -17,7 +17,6 @@
 
 - **[NovaPixel](https://devbyluiz.github.io/NovaPixel/)** – Sistema de gestão/portfólio, frontend moderno e responsivo  
 - **[Meu Site](https://devbyluiz.github.io/Portfolio/)** – Um site desenvolvido por mim para demonstração de habilididade, design e mostrando mais sobre mim e competências  
-- **[Projeto3](https://github.com/seuusuario/projeto3)** – Breve descrição do projeto  
   
 
 ---
