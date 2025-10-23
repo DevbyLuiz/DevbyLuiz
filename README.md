@@ -16,7 +16,8 @@
 ## 🌟 Projetos em destaque
 
 - **[NovaPixel](https://devbyluiz.github.io/NovaPixel/)** – Sistema de gestão/portfólio, frontend moderno e responsivo  
-- **[Meu Site](https://devbyluiz.github.io/Portfolio/)** – Um site desenvolvido por mim para demonstração de habilididade, design e mostrando mais sobre mim e competências  
+- **[Meu Site](https://devbyluiz.github.io/Portfolio/)** – Um site desenvolvido por mim para demonstração de habilididade, design e mostrando mais sobre mim e competências
+- **[CodeInsight](https://github.com/DevbyLuiz/CodeInsight)** – Um site desenvolvido por mim no wordpress para demonstração de habilidade e design.   
   
 
 ---
